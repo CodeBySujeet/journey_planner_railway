@@ -1,0 +1,3 @@
+assumptions :
+    1.height of a leaf is considered to be 1
+    2.entries with same journey code will not be entered

@@ -1,0 +1,1288 @@
+[34m*********************************************************[0m
+[31mWelcome to the CS293 Travel Planner (Autumn 2022 version)[0m
+[34m*********************************************************[0m
+
+Enter user code (0 to exit): ****************************
+Please choose an admin job:
+  0. Exit admin user
+  1. Enter/delete station name
+  2. Enter/delete journey code
+  3. Read commands from file
+  4. Exit reading commands from file
+  5. Print trie of station names
+  6. Enter journey information
+
+Input: ****************************
+Entering/deleting station name. 
+ Choose a sub-option:
+  11. Enter new station name
+  12. Delete station name
+
+Input: Enter complete station name: ****************************
+Please choose an admin job:
+  0. Exit admin user
+  1. Enter/delete station name
+  2. Enter/delete journey code
+  3. Read commands from file
+  4. Exit reading commands from file
+  5. Print trie of station names
+  6. Enter journey information
+
+Input: ****************************
+Entering/deleting station name. 
+ Choose a sub-option:
+  11. Enter new station name
+  12. Delete station name
+
+Input: Enter complete station name: ****************************
+Please choose an admin job:
+  0. Exit admin user
+  1. Enter/delete station name
+  2. Enter/delete journey code
+  3. Read commands from file
+  4. Exit reading commands from file
+  5. Print trie of station names
+  6. Enter journey information
+
+Input: ****************************
+Entering/deleting station name. 
+ Choose a sub-option:
+  11. Enter new station name
+  12. Delete station name
+
+Input: Enter complete station name: ****************************
+Please choose an admin job:
+  0. Exit admin user
+  1. Enter/delete station name
+  2. Enter/delete journey code
+  3. Read commands from file
+  4. Exit reading commands from file
+  5. Print trie of station names
+  6. Enter journey information
+
+Input: Enter journey code (train no.): Enter count of stops (including src and dest): Enter binary string of length 7 to denote days of week when train leaves source station: Enter full station name: Enter day count, arrival and departure times (-1 if not applicable): Enter full station name: Enter day count, arrival and departure times (-1 if not applicable): Enter full station name: Enter day count, arrival and departure times (-1 if not applicable): ****************************
+Please choose an admin job:
+  0. Exit admin user
+  1. Enter/delete station name
+  2. Enter/delete journey code
+  3. Read commands from file
+  4. Exit reading commands from file
+  5. Print trie of station names
+  6. Enter journey information
+
+Input: Enter journey code (train no.): Enter count of stops (including src and dest): Enter binary string of length 7 to denote days of week when train leaves source station: Enter full station name: Enter day count, arrival and departure times (-1 if not applicable): Enter full station name: Enter day count, arrival and departure times (-1 if not applicable): Enter full station name: Enter day count, arrival and departure times (-1 if not applicable): ****************************
+Please choose an admin job:
+  0. Exit admin user
+  1. Enter/delete station name
+  2. Enter/delete journey code
+  3. Read commands from file
+  4. Exit reading commands from file
+  5. Print trie of station names
+  6. Enter journey information
+
+Input: Enter journey code (train no.): Enter count of stops (including src and dest): Enter binary string of length 7 to denote days of week when train leaves source station: Enter full station name: Enter day count, arrival and departure times (-1 if not applicable): Enter full station name: Enter day count, arrival and departure times (-1 if not applicable): Enter full station name: Enter day count, arrival and departure times (-1 if not applicable): ****************************
+Please choose an admin job:
+  0. Exit admin user
+  1. Enter/delete station name
+  2. Enter/delete journey code
+  3. Read commands from file
+  4. Exit reading commands from file
+  5. Print trie of station names
+  6. Enter journey information
+
+Input: Enter journey code (train no.): Enter count of stops (including src and dest): Enter binary string of length 7 to denote days of week when train leaves source station: Enter full station name: Enter day count, arrival and departure times (-1 if not applicable): Enter full station name: Enter day count, arrival and departure times (-1 if not applicable): Enter full station name: Enter day count, arrival and departure times (-1 if not applicable): ****************************
+Please choose an admin job:
+  0. Exit admin user
+  1. Enter/delete station name
+  2. Enter/delete journey code
+  3. Read commands from file
+  4. Exit reading commands from file
+  5. Print trie of station names
+  6. Enter journey information
+
+Input: Enter journey code (train no.): Enter count of stops (including src and dest): Enter binary string of length 7 to denote days of week when train leaves source station: Enter full station name: Enter day count, arrival and departure times (-1 if not applicable): Enter full station name: Enter day count, arrival and departure times (-1 if not applicable): Enter full station name: Enter day count, arrival and departure times (-1 if not applicable): ****************************
+Please choose an admin job:
+  0. Exit admin user
+  1. Enter/delete station name
+  2. Enter/delete journey code
+  3. Read commands from file
+  4. Exit reading commands from file
+  5. Print trie of station names
+  6. Enter journey information
+
+Input: Enter journey code (train no.): Enter count of stops (including src and dest): Enter binary string of length 7 to denote days of week when train leaves source station: Enter full station name: Enter day count, arrival and departure times (-1 if not applicable): Enter full station name: Enter day count, arrival and departure times (-1 if not applicable): Enter full station name: Enter day count, arrival and departure times (-1 if not applicable): ****************************
+Please choose an admin job:
+  0. Exit admin user
+  1. Enter/delete station name
+  2. Enter/delete journey code
+  3. Read commands from file
+  4. Exit reading commands from file
+  5. Print trie of station names
+  6. Enter journey information
+
+Input: Enter journey code (train no.): Enter count of stops (including src and dest): Enter binary string of length 7 to denote days of week when train leaves source station: Enter full station name: Enter day count, arrival and departure times (-1 if not applicable): Enter full station name: Enter day count, arrival and departure times (-1 if not applicable): Enter full station name: Enter day count, arrival and departure times (-1 if not applicable): ****************************
+Please choose an admin job:
+  0. Exit admin user
+  1. Enter/delete station name
+  2. Enter/delete journey code
+  3. Read commands from file
+  4. Exit reading commands from file
+  5. Print trie of station names
+  6. Enter journey information
+
+Input: Enter journey code (train no.): Enter count of stops (including src and dest): Enter binary string of length 7 to denote days of week when train leaves source station: Enter full station name: Enter day count, arrival and departure times (-1 if not applicable): Enter full station name: Enter day count, arrival and departure times (-1 if not applicable): Enter full station name: Enter day count, arrival and departure times (-1 if not applicable): ****************************
+Please choose an admin job:
+  0. Exit admin user
+  1. Enter/delete station name
+  2. Enter/delete journey code
+  3. Read commands from file
+  4. Exit reading commands from file
+  5. Print trie of station names
+  6. Enter journey information
+
+Input: Enter journey code (train no.): Enter count of stops (including src and dest): Enter binary string of length 7 to denote days of week when train leaves source station: Enter full station name: Enter day count, arrival and departure times (-1 if not applicable): Enter full station name: Enter day count, arrival and departure times (-1 if not applicable): Enter full station name: Enter day count, arrival and departure times (-1 if not applicable): ****************************
+Please choose an admin job:
+  0. Exit admin user
+  1. Enter/delete station name
+  2. Enter/delete journey code
+  3. Read commands from file
+  4. Exit reading commands from file
+  5. Print trie of station names
+  6. Enter journey information
+
+Input: Enter journey code (train no.): Enter count of stops (including src and dest): Enter binary string of length 7 to denote days of week when train leaves source station: Enter full station name: Enter day count, arrival and departure times (-1 if not applicable): Enter full station name: Enter day count, arrival and departure times (-1 if not applicable): Enter full station name: Enter day count, arrival and departure times (-1 if not applicable): ****************************
+Please choose an admin job:
+  0. Exit admin user
+  1. Enter/delete station name
+  2. Enter/delete journey code
+  3. Read commands from file
+  4. Exit reading commands from file
+  5. Print trie of station names
+  6. Enter journey information
+
+Input: Enter journey code (train no.): Enter count of stops (including src and dest): Enter binary string of length 7 to denote days of week when train leaves source station: Enter full station name: Enter day count, arrival and departure times (-1 if not applicable): Enter full station name: Enter day count, arrival and departure times (-1 if not applicable): Enter full station name: Enter day count, arrival and departure times (-1 if not applicable): ****************************
+Please choose an admin job:
+  0. Exit admin user
+  1. Enter/delete station name
+  2. Enter/delete journey code
+  3. Read commands from file
+  4. Exit reading commands from file
+  5. Print trie of station names
+  6. Enter journey information
+
+Input: Enter journey code (train no.): Enter count of stops (including src and dest): Enter binary string of length 7 to denote days of week when train leaves source station: Enter full station name: Enter day count, arrival and departure times (-1 if not applicable): Enter full station name: Enter day count, arrival and departure times (-1 if not applicable): Enter full station name: Enter day count, arrival and departure times (-1 if not applicable): ****************************
+Please choose an admin job:
+  0. Exit admin user
+  1. Enter/delete station name
+  2. Enter/delete journey code
+  3. Read commands from file
+  4. Exit reading commands from file
+  5. Print trie of station names
+  6. Enter journey information
+
+Input: Enter journey code (train no.): Enter count of stops (including src and dest): Enter binary string of length 7 to denote days of week when train leaves source station: Enter full station name: Enter day count, arrival and departure times (-1 if not applicable): Enter full station name: Enter day count, arrival and departure times (-1 if not applicable): Enter full station name: Enter day count, arrival and departure times (-1 if not applicable): ****************************
+Please choose an admin job:
+  0. Exit admin user
+  1. Enter/delete station name
+  2. Enter/delete journey code
+  3. Read commands from file
+  4. Exit reading commands from file
+  5. Print trie of station names
+  6. Enter journey information
+
+Input: Enter journey code (train no.): Enter count of stops (including src and dest): Enter binary string of length 7 to denote days of week when train leaves source station: Enter full station name: Enter day count, arrival and departure times (-1 if not applicable): Enter full station name: Enter day count, arrival and departure times (-1 if not applicable): Enter full station name: Enter day count, arrival and departure times (-1 if not applicable): ****************************
+Please choose an admin job:
+  0. Exit admin user
+  1. Enter/delete station name
+  2. Enter/delete journey code
+  3. Read commands from file
+  4. Exit reading commands from file
+  5. Print trie of station names
+  6. Enter journey information
+
+Input: Enter journey code (train no.): Enter count of stops (including src and dest): Enter binary string of length 7 to denote days of week when train leaves source station: Enter full station name: Enter day count, arrival and departure times (-1 if not applicable): Enter full station name: Enter day count, arrival and departure times (-1 if not applicable): Enter full station name: Enter day count, arrival and departure times (-1 if not applicable): ****************************
+Please choose an admin job:
+  0. Exit admin user
+  1. Enter/delete station name
+  2. Enter/delete journey code
+  3. Read commands from file
+  4. Exit reading commands from file
+  5. Print trie of station names
+  6. Enter journey information
+
+Input: Enter journey code (train no.): Enter count of stops (including src and dest): Enter binary string of length 7 to denote days of week when train leaves source station: Enter full station name: Enter day count, arrival and departure times (-1 if not applicable): Enter full station name: Enter day count, arrival and departure times (-1 if not applicable): Enter full station name: Enter day count, arrival and departure times (-1 if not applicable): ****************************
+Please choose an admin job:
+  0. Exit admin user
+  1. Enter/delete station name
+  2. Enter/delete journey code
+  3. Read commands from file
+  4. Exit reading commands from file
+  5. Print trie of station names
+  6. Enter journey information
+
+Input: Enter journey code (train no.): Enter count of stops (including src and dest): Enter binary string of length 7 to denote days of week when train leaves source station: Enter full station name: Enter day count, arrival and departure times (-1 if not applicable): Enter full station name: Enter day count, arrival and departure times (-1 if not applicable): Enter full station name: Enter day count, arrival and departure times (-1 if not applicable): ****************************
+Please choose an admin job:
+  0. Exit admin user
+  1. Enter/delete station name
+  2. Enter/delete journey code
+  3. Read commands from file
+  4. Exit reading commands from file
+  5. Print trie of station names
+  6. Enter journey information
+
+Input: Enter journey code (train no.): Enter count of stops (including src and dest): Enter binary string of length 7 to denote days of week when train leaves source station: Enter full station name: Enter day count, arrival and departure times (-1 if not applicable): Enter full station name: Enter day count, arrival and departure times (-1 if not applicable): Enter full station name: Enter day count, arrival and departure times (-1 if not applicable): ****************************
+Please choose an admin job:
+  0. Exit admin user
+  1. Enter/delete station name
+  2. Enter/delete journey code
+  3. Read commands from file
+  4. Exit reading commands from file
+  5. Print trie of station names
+  6. Enter journey information
+
+Input: Enter journey code (train no.): Enter count of stops (including src and dest): Enter binary string of length 7 to denote days of week when train leaves source station: Enter full station name: Enter day count, arrival and departure times (-1 if not applicable): Enter full station name: Enter day count, arrival and departure times (-1 if not applicable): Enter full station name: Enter day count, arrival and departure times (-1 if not applicable): ****************************
+Please choose an admin job:
+  0. Exit admin user
+  1. Enter/delete station name
+  2. Enter/delete journey code
+  3. Read commands from file
+  4. Exit reading commands from file
+  5. Print trie of station names
+  6. Enter journey information
+
+Input: Enter journey code (train no.): Enter count of stops (including src and dest): Enter binary string of length 7 to denote days of week when train leaves source station: Enter full station name: Enter day count, arrival and departure times (-1 if not applicable): Enter full station name: Enter day count, arrival and departure times (-1 if not applicable): Enter full station name: Enter day count, arrival and departure times (-1 if not applicable): ****************************
+Please choose an admin job:
+  0. Exit admin user
+  1. Enter/delete station name
+  2. Enter/delete journey code
+  3. Read commands from file
+  4. Exit reading commands from file
+  5. Print trie of station names
+  6. Enter journey information
+
+Input: Enter journey code (train no.): Enter count of stops (including src and dest): Enter binary string of length 7 to denote days of week when train leaves source station: Enter full station name: Enter day count, arrival and departure times (-1 if not applicable): Enter full station name: Enter day count, arrival and departure times (-1 if not applicable): Enter full station name: Enter day count, arrival and departure times (-1 if not applicable): ****************************
+Please choose an admin job:
+  0. Exit admin user
+  1. Enter/delete station name
+  2. Enter/delete journey code
+  3. Read commands from file
+  4. Exit reading commands from file
+  5. Print trie of station names
+  6. Enter journey information
+
+Input: Enter journey code (train no.): Enter count of stops (including src and dest): Enter binary string of length 7 to denote days of week when train leaves source station: Enter full station name: Enter day count, arrival and departure times (-1 if not applicable): Enter full station name: Enter day count, arrival and departure times (-1 if not applicable): Enter full station name: Enter day count, arrival and departure times (-1 if not applicable): ****************************
+Please choose an admin job:
+  0. Exit admin user
+  1. Enter/delete station name
+  2. Enter/delete journey code
+  3. Read commands from file
+  4. Exit reading commands from file
+  5. Print trie of station names
+  6. Enter journey information
+
+Input: Enter journey code (train no.): Enter count of stops (including src and dest): Enter binary string of length 7 to denote days of week when train leaves source station: Enter full station name: Enter day count, arrival and departure times (-1 if not applicable): Enter full station name: Enter day count, arrival and departure times (-1 if not applicable): Enter full station name: Enter day count, arrival and departure times (-1 if not applicable): ****************************
+Please choose an admin job:
+  0. Exit admin user
+  1. Enter/delete station name
+  2. Enter/delete journey code
+  3. Read commands from file
+  4. Exit reading commands from file
+  5. Print trie of station names
+  6. Enter journey information
+
+Input: Enter journey code (train no.): Enter count of stops (including src and dest): Enter binary string of length 7 to denote days of week when train leaves source station: Enter full station name: Enter day count, arrival and departure times (-1 if not applicable): Enter full station name: Enter day count, arrival and departure times (-1 if not applicable): Enter full station name: Enter day count, arrival and departure times (-1 if not applicable): ****************************
+Please choose an admin job:
+  0. Exit admin user
+  1. Enter/delete station name
+  2. Enter/delete journey code
+  3. Read commands from file
+  4. Exit reading commands from file
+  5. Print trie of station names
+  6. Enter journey information
+
+Input: Enter journey code (train no.): Enter count of stops (including src and dest): Enter binary string of length 7 to denote days of week when train leaves source station: Enter full station name: Enter day count, arrival and departure times (-1 if not applicable): Enter full station name: Enter day count, arrival and departure times (-1 if not applicable): Enter full station name: Enter day count, arrival and departure times (-1 if not applicable): ****************************
+Please choose an admin job:
+  0. Exit admin user
+  1. Enter/delete station name
+  2. Enter/delete journey code
+  3. Read commands from file
+  4. Exit reading commands from file
+  5. Print trie of station names
+  6. Enter journey information
+
+Input: Enter journey code (train no.): Enter count of stops (including src and dest): Enter binary string of length 7 to denote days of week when train leaves source station: Enter full station name: Enter day count, arrival and departure times (-1 if not applicable): Enter full station name: Enter day count, arrival and departure times (-1 if not applicable): Enter full station name: Enter day count, arrival and departure times (-1 if not applicable): ****************************
+Please choose an admin job:
+  0. Exit admin user
+  1. Enter/delete station name
+  2. Enter/delete journey code
+  3. Read commands from file
+  4. Exit reading commands from file
+  5. Print trie of station names
+  6. Enter journey information
+
+Input: Enter journey code (train no.): Enter count of stops (including src and dest): Enter binary string of length 7 to denote days of week when train leaves source station: Enter full station name: Enter day count, arrival and departure times (-1 if not applicable): Enter full station name: Enter day count, arrival and departure times (-1 if not applicable): Enter full station name: Enter day count, arrival and departure times (-1 if not applicable): ****************************
+Please choose an admin job:
+  0. Exit admin user
+  1. Enter/delete station name
+  2. Enter/delete journey code
+  3. Read commands from file
+  4. Exit reading commands from file
+  5. Print trie of station names
+  6. Enter journey information
+
+Input: Enter journey code (train no.): Enter count of stops (including src and dest): Enter binary string of length 7 to denote days of week when train leaves source station: Enter full station name: Enter day count, arrival and departure times (-1 if not applicable): Enter full station name: Enter day count, arrival and departure times (-1 if not applicable): Enter full station name: Enter day count, arrival and departure times (-1 if not applicable): ****************************
+Please choose an admin job:
+  0. Exit admin user
+  1. Enter/delete station name
+  2. Enter/delete journey code
+  3. Read commands from file
+  4. Exit reading commands from file
+  5. Print trie of station names
+  6. Enter journey information
+
+Input: Enter journey code (train no.): Enter count of stops (including src and dest): Enter binary string of length 7 to denote days of week when train leaves source station: Enter full station name: Enter day count, arrival and departure times (-1 if not applicable): Enter full station name: Enter day count, arrival and departure times (-1 if not applicable): Enter full station name: Enter day count, arrival and departure times (-1 if not applicable): ****************************
+Please choose an admin job:
+  0. Exit admin user
+  1. Enter/delete station name
+  2. Enter/delete journey code
+  3. Read commands from file
+  4. Exit reading commands from file
+  5. Print trie of station names
+  6. Enter journey information
+
+Input: Enter journey code (train no.): Enter count of stops (including src and dest): Enter binary string of length 7 to denote days of week when train leaves source station: Enter full station name: Enter day count, arrival and departure times (-1 if not applicable): Enter full station name: Enter day count, arrival and departure times (-1 if not applicable): Enter full station name: Enter day count, arrival and departure times (-1 if not applicable): ****************************
+Please choose an admin job:
+  0. Exit admin user
+  1. Enter/delete station name
+  2. Enter/delete journey code
+  3. Read commands from file
+  4. Exit reading commands from file
+  5. Print trie of station names
+  6. Enter journey information
+
+Input: Enter journey code (train no.): Enter count of stops (including src and dest): Enter binary string of length 7 to denote days of week when train leaves source station: Enter full station name: Enter day count, arrival and departure times (-1 if not applicable): Enter full station name: Enter day count, arrival and departure times (-1 if not applicable): Enter full station name: Enter day count, arrival and departure times (-1 if not applicable): ****************************
+Please choose an admin job:
+  0. Exit admin user
+  1. Enter/delete station name
+  2. Enter/delete journey code
+  3. Read commands from file
+  4. Exit reading commands from file
+  5. Print trie of station names
+  6. Enter journey information
+
+Input: Enter journey code (train no.): Enter count of stops (including src and dest): Enter binary string of length 7 to denote days of week when train leaves source station: Enter full station name: Enter day count, arrival and departure times (-1 if not applicable): Enter full station name: Enter day count, arrival and departure times (-1 if not applicable): Enter full station name: Enter day count, arrival and departure times (-1 if not applicable): ****************************
+Please choose an admin job:
+  0. Exit admin user
+  1. Enter/delete station name
+  2. Enter/delete journey code
+  3. Read commands from file
+  4. Exit reading commands from file
+  5. Print trie of station names
+  6. Enter journey information
+
+Input: Enter journey code (train no.): Enter count of stops (including src and dest): Enter binary string of length 7 to denote days of week when train leaves source station: Enter full station name: Enter day count, arrival and departure times (-1 if not applicable): Enter full station name: Enter day count, arrival and departure times (-1 if not applicable): Enter full station name: Enter day count, arrival and departure times (-1 if not applicable): ****************************
+Please choose an admin job:
+  0. Exit admin user
+  1. Enter/delete station name
+  2. Enter/delete journey code
+  3. Read commands from file
+  4. Exit reading commands from file
+  5. Print trie of station names
+  6. Enter journey information
+
+Input: Enter journey code (train no.): Enter count of stops (including src and dest): Enter binary string of length 7 to denote days of week when train leaves source station: Enter full station name: Enter day count, arrival and departure times (-1 if not applicable): Enter full station name: Enter day count, arrival and departure times (-1 if not applicable): Enter full station name: Enter day count, arrival and departure times (-1 if not applicable): ****************************
+Please choose an admin job:
+  0. Exit admin user
+  1. Enter/delete station name
+  2. Enter/delete journey code
+  3. Read commands from file
+  4. Exit reading commands from file
+  5. Print trie of station names
+  6. Enter journey information
+
+Input: Enter journey code (train no.): Enter count of stops (including src and dest): Enter binary string of length 7 to denote days of week when train leaves source station: Enter full station name: Enter day count, arrival and departure times (-1 if not applicable): Enter full station name: Enter day count, arrival and departure times (-1 if not applicable): Enter full station name: Enter day count, arrival and departure times (-1 if not applicable): ****************************
+Please choose an admin job:
+  0. Exit admin user
+  1. Enter/delete station name
+  2. Enter/delete journey code
+  3. Read commands from file
+  4. Exit reading commands from file
+  5. Print trie of station names
+  6. Enter journey information
+
+Input: Enter journey code (train no.): Enter count of stops (including src and dest): Enter binary string of length 7 to denote days of week when train leaves source station: Enter full station name: Enter day count, arrival and departure times (-1 if not applicable): Enter full station name: Enter day count, arrival and departure times (-1 if not applicable): Enter full station name: Enter day count, arrival and departure times (-1 if not applicable): ****************************
+Please choose an admin job:
+  0. Exit admin user
+  1. Enter/delete station name
+  2. Enter/delete journey code
+  3. Read commands from file
+  4. Exit reading commands from file
+  5. Print trie of station names
+  6. Enter journey information
+
+Input: Enter journey code (train no.): Enter count of stops (including src and dest): Enter binary string of length 7 to denote days of week when train leaves source station: Enter full station name: Enter day count, arrival and departure times (-1 if not applicable): Enter full station name: Enter day count, arrival and departure times (-1 if not applicable): Enter full station name: Enter day count, arrival and departure times (-1 if not applicable): ****************************
+Please choose an admin job:
+  0. Exit admin user
+  1. Enter/delete station name
+  2. Enter/delete journey code
+  3. Read commands from file
+  4. Exit reading commands from file
+  5. Print trie of station names
+  6. Enter journey information
+
+Input: Enter journey code (train no.): Enter count of stops (including src and dest): Enter binary string of length 7 to denote days of week when train leaves source station: Enter full station name: Enter day count, arrival and departure times (-1 if not applicable): Enter full station name: Enter day count, arrival and departure times (-1 if not applicable): Enter full station name: Enter day count, arrival and departure times (-1 if not applicable): ****************************
+Please choose an admin job:
+  0. Exit admin user
+  1. Enter/delete station name
+  2. Enter/delete journey code
+  3. Read commands from file
+  4. Exit reading commands from file
+  5. Print trie of station names
+  6. Enter journey information
+
+Input: Enter journey code (train no.): Enter count of stops (including src and dest): Enter binary string of length 7 to denote days of week when train leaves source station: Enter full station name: Enter day count, arrival and departure times (-1 if not applicable): Enter full station name: Enter day count, arrival and departure times (-1 if not applicable): Enter full station name: Enter day count, arrival and departure times (-1 if not applicable): ****************************
+Please choose an admin job:
+  0. Exit admin user
+  1. Enter/delete station name
+  2. Enter/delete journey code
+  3. Read commands from file
+  4. Exit reading commands from file
+  5. Print trie of station names
+  6. Enter journey information
+
+Input: Enter journey code (train no.): Enter count of stops (including src and dest): Enter binary string of length 7 to denote days of week when train leaves source station: Enter full station name: Enter day count, arrival and departure times (-1 if not applicable): Enter full station name: Enter day count, arrival and departure times (-1 if not applicable): Enter full station name: Enter day count, arrival and departure times (-1 if not applicable): ****************************
+Please choose an admin job:
+  0. Exit admin user
+  1. Enter/delete station name
+  2. Enter/delete journey code
+  3. Read commands from file
+  4. Exit reading commands from file
+  5. Print trie of station names
+  6. Enter journey information
+
+Input: Enter journey code (train no.): Enter count of stops (including src and dest): Enter binary string of length 7 to denote days of week when train leaves source station: Enter full station name: Enter day count, arrival and departure times (-1 if not applicable): Enter full station name: Enter day count, arrival and departure times (-1 if not applicable): Enter full station name: Enter day count, arrival and departure times (-1 if not applicable): ****************************
+Please choose an admin job:
+  0. Exit admin user
+  1. Enter/delete station name
+  2. Enter/delete journey code
+  3. Read commands from file
+  4. Exit reading commands from file
+  5. Print trie of station names
+  6. Enter journey information
+
+Input: Enter journey code (train no.): Enter count of stops (including src and dest): Enter binary string of length 7 to denote days of week when train leaves source station: Enter full station name: Enter day count, arrival and departure times (-1 if not applicable): Enter full station name: Enter day count, arrival and departure times (-1 if not applicable): Enter full station name: Enter day count, arrival and departure times (-1 if not applicable): ****************************
+Please choose an admin job:
+  0. Exit admin user
+  1. Enter/delete station name
+  2. Enter/delete journey code
+  3. Read commands from file
+  4. Exit reading commands from file
+  5. Print trie of station names
+  6. Enter journey information
+
+Input: Enter journey code (train no.): Enter count of stops (including src and dest): Enter binary string of length 7 to denote days of week when train leaves source station: Enter full station name: Enter day count, arrival and departure times (-1 if not applicable): Enter full station name: Enter day count, arrival and departure times (-1 if not applicable): Enter full station name: Enter day count, arrival and departure times (-1 if not applicable): ****************************
+Please choose an admin job:
+  0. Exit admin user
+  1. Enter/delete station name
+  2. Enter/delete journey code
+  3. Read commands from file
+  4. Exit reading commands from file
+  5. Print trie of station names
+  6. Enter journey information
+
+Input: Enter journey code (train no.): Enter count of stops (including src and dest): Enter binary string of length 7 to denote days of week when train leaves source station: Enter full station name: Enter day count, arrival and departure times (-1 if not applicable): Enter full station name: Enter day count, arrival and departure times (-1 if not applicable): Enter full station name: Enter day count, arrival and departure times (-1 if not applicable): ****************************
+Please choose an admin job:
+  0. Exit admin user
+  1. Enter/delete station name
+  2. Enter/delete journey code
+  3. Read commands from file
+  4. Exit reading commands from file
+  5. Print trie of station names
+  6. Enter journey information
+
+Input: Enter journey code (train no.): Enter count of stops (including src and dest): Enter binary string of length 7 to denote days of week when train leaves source station: Enter full station name: Enter day count, arrival and departure times (-1 if not applicable): Enter full station name: Enter day count, arrival and departure times (-1 if not applicable): Enter full station name: Enter day count, arrival and departure times (-1 if not applicable): ****************************
+Please choose an admin job:
+  0. Exit admin user
+  1. Enter/delete station name
+  2. Enter/delete journey code
+  3. Read commands from file
+  4. Exit reading commands from file
+  5. Print trie of station names
+  6. Enter journey information
+
+Input: Enter journey code (train no.): Enter count of stops (including src and dest): Enter binary string of length 7 to denote days of week when train leaves source station: Enter full station name: Enter day count, arrival and departure times (-1 if not applicable): Enter full station name: Enter day count, arrival and departure times (-1 if not applicable): Enter full station name: Enter day count, arrival and departure times (-1 if not applicable): ****************************
+Please choose an admin job:
+  0. Exit admin user
+  1. Enter/delete station name
+  2. Enter/delete journey code
+  3. Read commands from file
+  4. Exit reading commands from file
+  5. Print trie of station names
+  6. Enter journey information
+
+Input: Enter journey code (train no.): Enter count of stops (including src and dest): Enter binary string of length 7 to denote days of week when train leaves source station: Enter full station name: Enter day count, arrival and departure times (-1 if not applicable): Enter full station name: Enter day count, arrival and departure times (-1 if not applicable): Enter full station name: Enter day count, arrival and departure times (-1 if not applicable): ****************************
+Please choose an admin job:
+  0. Exit admin user
+  1. Enter/delete station name
+  2. Enter/delete journey code
+  3. Read commands from file
+  4. Exit reading commands from file
+  5. Print trie of station names
+  6. Enter journey information
+
+Input: Enter journey code (train no.): Enter count of stops (including src and dest): Enter binary string of length 7 to denote days of week when train leaves source station: Enter full station name: Enter day count, arrival and departure times (-1 if not applicable): Enter full station name: Enter day count, arrival and departure times (-1 if not applicable): Enter full station name: Enter day count, arrival and departure times (-1 if not applicable): ****************************
+Please choose an admin job:
+  0. Exit admin user
+  1. Enter/delete station name
+  2. Enter/delete journey code
+  3. Read commands from file
+  4. Exit reading commands from file
+  5. Print trie of station names
+  6. Enter journey information
+
+Input: Enter journey code (train no.): Enter count of stops (including src and dest): Enter binary string of length 7 to denote days of week when train leaves source station: Enter full station name: Enter day count, arrival and departure times (-1 if not applicable): Enter full station name: Enter day count, arrival and departure times (-1 if not applicable): Enter full station name: Enter day count, arrival and departure times (-1 if not applicable): ****************************
+Please choose an admin job:
+  0. Exit admin user
+  1. Enter/delete station name
+  2. Enter/delete journey code
+  3. Read commands from file
+  4. Exit reading commands from file
+  5. Print trie of station names
+  6. Enter journey information
+
+Input: Enter journey code (train no.): Enter count of stops (including src and dest): Enter binary string of length 7 to denote days of week when train leaves source station: Enter full station name: Enter day count, arrival and departure times (-1 if not applicable): Enter full station name: Enter day count, arrival and departure times (-1 if not applicable): Enter full station name: Enter day count, arrival and departure times (-1 if not applicable): ****************************
+Please choose an admin job:
+  0. Exit admin user
+  1. Enter/delete station name
+  2. Enter/delete journey code
+  3. Read commands from file
+  4. Exit reading commands from file
+  5. Print trie of station names
+  6. Enter journey information
+
+Input: Enter journey code (train no.): Enter count of stops (including src and dest): Enter binary string of length 7 to denote days of week when train leaves source station: Enter full station name: Enter day count, arrival and departure times (-1 if not applicable): Enter full station name: Enter day count, arrival and departure times (-1 if not applicable): Enter full station name: Enter day count, arrival and departure times (-1 if not applicable): ****************************
+Please choose an admin job:
+  0. Exit admin user
+  1. Enter/delete station name
+  2. Enter/delete journey code
+  3. Read commands from file
+  4. Exit reading commands from file
+  5. Print trie of station names
+  6. Enter journey information
+
+Input: Enter journey code (train no.): Enter count of stops (including src and dest): Enter binary string of length 7 to denote days of week when train leaves source station: Enter full station name: Enter day count, arrival and departure times (-1 if not applicable): Enter full station name: Enter day count, arrival and departure times (-1 if not applicable): Enter full station name: Enter day count, arrival and departure times (-1 if not applicable): ****************************
+Please choose an admin job:
+  0. Exit admin user
+  1. Enter/delete station name
+  2. Enter/delete journey code
+  3. Read commands from file
+  4. Exit reading commands from file
+  5. Print trie of station names
+  6. Enter journey information
+
+Input: Enter journey code (train no.): Enter count of stops (including src and dest): Enter binary string of length 7 to denote days of week when train leaves source station: Enter full station name: Enter day count, arrival and departure times (-1 if not applicable): Enter full station name: Enter day count, arrival and departure times (-1 if not applicable): Enter full station name: Enter day count, arrival and departure times (-1 if not applicable): ****************************
+Please choose an admin job:
+  0. Exit admin user
+  1. Enter/delete station name
+  2. Enter/delete journey code
+  3. Read commands from file
+  4. Exit reading commands from file
+  5. Print trie of station names
+  6. Enter journey information
+
+Input: Enter journey code (train no.): Enter count of stops (including src and dest): Enter binary string of length 7 to denote days of week when train leaves source station: Enter full station name: Enter day count, arrival and departure times (-1 if not applicable): Enter full station name: Enter day count, arrival and departure times (-1 if not applicable): Enter full station name: Enter day count, arrival and departure times (-1 if not applicable): ****************************
+Please choose an admin job:
+  0. Exit admin user
+  1. Enter/delete station name
+  2. Enter/delete journey code
+  3. Read commands from file
+  4. Exit reading commands from file
+  5. Print trie of station names
+  6. Enter journey information
+
+Input: Enter journey code (train no.): Enter count of stops (including src and dest): Enter binary string of length 7 to denote days of week when train leaves source station: Enter full station name: Enter day count, arrival and departure times (-1 if not applicable): Enter full station name: Enter day count, arrival and departure times (-1 if not applicable): Enter full station name: Enter day count, arrival and departure times (-1 if not applicable): ****************************
+Please choose an admin job:
+  0. Exit admin user
+  1. Enter/delete station name
+  2. Enter/delete journey code
+  3. Read commands from file
+  4. Exit reading commands from file
+  5. Print trie of station names
+  6. Enter journey information
+
+Input: Enter journey code (train no.): Enter count of stops (including src and dest): Enter binary string of length 7 to denote days of week when train leaves source station: Enter full station name: Enter day count, arrival and departure times (-1 if not applicable): Enter full station name: Enter day count, arrival and departure times (-1 if not applicable): Enter full station name: Enter day count, arrival and departure times (-1 if not applicable): ****************************
+Please choose an admin job:
+  0. Exit admin user
+  1. Enter/delete station name
+  2. Enter/delete journey code
+  3. Read commands from file
+  4. Exit reading commands from file
+  5. Print trie of station names
+  6. Enter journey information
+
+Input: Enter journey code (train no.): Enter count of stops (including src and dest): Enter binary string of length 7 to denote days of week when train leaves source station: Enter full station name: Enter day count, arrival and departure times (-1 if not applicable): Enter full station name: Enter day count, arrival and departure times (-1 if not applicable): Enter full station name: Enter day count, arrival and departure times (-1 if not applicable): ****************************
+Please choose an admin job:
+  0. Exit admin user
+  1. Enter/delete station name
+  2. Enter/delete journey code
+  3. Read commands from file
+  4. Exit reading commands from file
+  5. Print trie of station names
+  6. Enter journey information
+
+Input: Enter journey code (train no.): Enter count of stops (including src and dest): Enter binary string of length 7 to denote days of week when train leaves source station: Enter full station name: Enter day count, arrival and departure times (-1 if not applicable): Enter full station name: Enter day count, arrival and departure times (-1 if not applicable): Enter full station name: Enter day count, arrival and departure times (-1 if not applicable): ****************************
+Please choose an admin job:
+  0. Exit admin user
+  1. Enter/delete station name
+  2. Enter/delete journey code
+  3. Read commands from file
+  4. Exit reading commands from file
+  5. Print trie of station names
+  6. Enter journey information
+
+Input: Enter journey code (train no.): Enter count of stops (including src and dest): Enter binary string of length 7 to denote days of week when train leaves source station: Enter full station name: Enter day count, arrival and departure times (-1 if not applicable): Enter full station name: Enter day count, arrival and departure times (-1 if not applicable): Enter full station name: Enter day count, arrival and departure times (-1 if not applicable): ****************************
+Please choose an admin job:
+  0. Exit admin user
+  1. Enter/delete station name
+  2. Enter/delete journey code
+  3. Read commands from file
+  4. Exit reading commands from file
+  5. Print trie of station names
+  6. Enter journey information
+
+Input: Enter journey code (train no.): Enter count of stops (including src and dest): Enter binary string of length 7 to denote days of week when train leaves source station: Enter full station name: Enter day count, arrival and departure times (-1 if not applicable): Enter full station name: Enter day count, arrival and departure times (-1 if not applicable): Enter full station name: Enter day count, arrival and departure times (-1 if not applicable): ****************************
+Please choose an admin job:
+  0. Exit admin user
+  1. Enter/delete station name
+  2. Enter/delete journey code
+  3. Read commands from file
+  4. Exit reading commands from file
+  5. Print trie of station names
+  6. Enter journey information
+
+Input: Enter journey code (train no.): Enter count of stops (including src and dest): Enter binary string of length 7 to denote days of week when train leaves source station: Enter full station name: Enter day count, arrival and departure times (-1 if not applicable): Enter full station name: Enter day count, arrival and departure times (-1 if not applicable): Enter full station name: Enter day count, arrival and departure times (-1 if not applicable): ****************************
+Please choose an admin job:
+  0. Exit admin user
+  1. Enter/delete station name
+  2. Enter/delete journey code
+  3. Read commands from file
+  4. Exit reading commands from file
+  5. Print trie of station names
+  6. Enter journey information
+
+Input: Enter journey code (train no.): Enter count of stops (including src and dest): Enter binary string of length 7 to denote days of week when train leaves source station: Enter full station name: Enter day count, arrival and departure times (-1 if not applicable): Enter full station name: Enter day count, arrival and departure times (-1 if not applicable): Enter full station name: Enter day count, arrival and departure times (-1 if not applicable): ****************************
+Please choose an admin job:
+  0. Exit admin user
+  1. Enter/delete station name
+  2. Enter/delete journey code
+  3. Read commands from file
+  4. Exit reading commands from file
+  5. Print trie of station names
+  6. Enter journey information
+
+Input: Enter journey code (train no.): Enter count of stops (including src and dest): Enter binary string of length 7 to denote days of week when train leaves source station: Enter full station name: Enter day count, arrival and departure times (-1 if not applicable): Enter full station name: Enter day count, arrival and departure times (-1 if not applicable): Enter full station name: Enter day count, arrival and departure times (-1 if not applicable): ****************************
+Please choose an admin job:
+  0. Exit admin user
+  1. Enter/delete station name
+  2. Enter/delete journey code
+  3. Read commands from file
+  4. Exit reading commands from file
+  5. Print trie of station names
+  6. Enter journey information
+
+Input: Enter journey code (train no.): Enter count of stops (including src and dest): Enter binary string of length 7 to denote days of week when train leaves source station: Enter full station name: Enter day count, arrival and departure times (-1 if not applicable): Enter full station name: Enter day count, arrival and departure times (-1 if not applicable): Enter full station name: Enter day count, arrival and departure times (-1 if not applicable): ****************************
+Please choose an admin job:
+  0. Exit admin user
+  1. Enter/delete station name
+  2. Enter/delete journey code
+  3. Read commands from file
+  4. Exit reading commands from file
+  5. Print trie of station names
+  6. Enter journey information
+
+Input: Enter journey code (train no.): Enter count of stops (including src and dest): Enter binary string of length 7 to denote days of week when train leaves source station: Enter full station name: Enter day count, arrival and departure times (-1 if not applicable): Enter full station name: Enter day count, arrival and departure times (-1 if not applicable): Enter full station name: Enter day count, arrival and departure times (-1 if not applicable): ****************************
+Please choose an admin job:
+  0. Exit admin user
+  1. Enter/delete station name
+  2. Enter/delete journey code
+  3. Read commands from file
+  4. Exit reading commands from file
+  5. Print trie of station names
+  6. Enter journey information
+
+Input: Enter journey code (train no.): Enter count of stops (including src and dest): Enter binary string of length 7 to denote days of week when train leaves source station: Enter full station name: Enter day count, arrival and departure times (-1 if not applicable): Enter full station name: Enter day count, arrival and departure times (-1 if not applicable): Enter full station name: Enter day count, arrival and departure times (-1 if not applicable): ****************************
+Please choose an admin job:
+  0. Exit admin user
+  1. Enter/delete station name
+  2. Enter/delete journey code
+  3. Read commands from file
+  4. Exit reading commands from file
+  5. Print trie of station names
+  6. Enter journey information
+
+Input: Enter journey code (train no.): Enter count of stops (including src and dest): Enter binary string of length 7 to denote days of week when train leaves source station: Enter full station name: Enter day count, arrival and departure times (-1 if not applicable): Enter full station name: Enter day count, arrival and departure times (-1 if not applicable): Enter full station name: Enter day count, arrival and departure times (-1 if not applicable): ****************************
+Please choose an admin job:
+  0. Exit admin user
+  1. Enter/delete station name
+  2. Enter/delete journey code
+  3. Read commands from file
+  4. Exit reading commands from file
+  5. Print trie of station names
+  6. Enter journey information
+
+Input: Enter journey code (train no.): Enter count of stops (including src and dest): Enter binary string of length 7 to denote days of week when train leaves source station: Enter full station name: Enter day count, arrival and departure times (-1 if not applicable): Enter full station name: Enter day count, arrival and departure times (-1 if not applicable): Enter full station name: Enter day count, arrival and departure times (-1 if not applicable): ****************************
+Please choose an admin job:
+  0. Exit admin user
+  1. Enter/delete station name
+  2. Enter/delete journey code
+  3. Read commands from file
+  4. Exit reading commands from file
+  5. Print trie of station names
+  6. Enter journey information
+
+Input: Enter journey code (train no.): Enter count of stops (including src and dest): Enter binary string of length 7 to denote days of week when train leaves source station: Enter full station name: Enter day count, arrival and departure times (-1 if not applicable): Enter full station name: Enter day count, arrival and departure times (-1 if not applicable): Enter full station name: Enter day count, arrival and departure times (-1 if not applicable): ****************************
+Please choose an admin job:
+  0. Exit admin user
+  1. Enter/delete station name
+  2. Enter/delete journey code
+  3. Read commands from file
+  4. Exit reading commands from file
+  5. Print trie of station names
+  6. Enter journey information
+
+Input: Enter journey code (train no.): Enter count of stops (including src and dest): Enter binary string of length 7 to denote days of week when train leaves source station: Enter full station name: Enter day count, arrival and departure times (-1 if not applicable): Enter full station name: Enter day count, arrival and departure times (-1 if not applicable): Enter full station name: Enter day count, arrival and departure times (-1 if not applicable): ****************************
+Please choose an admin job:
+  0. Exit admin user
+  1. Enter/delete station name
+  2. Enter/delete journey code
+  3. Read commands from file
+  4. Exit reading commands from file
+  5. Print trie of station names
+  6. Enter journey information
+
+Input: Enter journey code (train no.): Enter count of stops (including src and dest): Enter binary string of length 7 to denote days of week when train leaves source station: Enter full station name: Enter day count, arrival and departure times (-1 if not applicable): Enter full station name: Enter day count, arrival and departure times (-1 if not applicable): Enter full station name: Enter day count, arrival and departure times (-1 if not applicable): ****************************
+Please choose an admin job:
+  0. Exit admin user
+  1. Enter/delete station name
+  2. Enter/delete journey code
+  3. Read commands from file
+  4. Exit reading commands from file
+  5. Print trie of station names
+  6. Enter journey information
+
+Input: Enter journey code (train no.): Enter count of stops (including src and dest): Enter binary string of length 7 to denote days of week when train leaves source station: Enter full station name: Enter day count, arrival and departure times (-1 if not applicable): Enter full station name: Enter day count, arrival and departure times (-1 if not applicable): Enter full station name: Enter day count, arrival and departure times (-1 if not applicable): ****************************
+Please choose an admin job:
+  0. Exit admin user
+  1. Enter/delete station name
+  2. Enter/delete journey code
+  3. Read commands from file
+  4. Exit reading commands from file
+  5. Print trie of station names
+  6. Enter journey information
+
+Input: Enter journey code (train no.): Enter count of stops (including src and dest): Enter binary string of length 7 to denote days of week when train leaves source station: Enter full station name: Enter day count, arrival and departure times (-1 if not applicable): Enter full station name: Enter day count, arrival and departure times (-1 if not applicable): Enter full station name: Enter day count, arrival and departure times (-1 if not applicable): ****************************
+Please choose an admin job:
+  0. Exit admin user
+  1. Enter/delete station name
+  2. Enter/delete journey code
+  3. Read commands from file
+  4. Exit reading commands from file
+  5. Print trie of station names
+  6. Enter journey information
+
+Input: Enter journey code (train no.): Enter count of stops (including src and dest): Enter binary string of length 7 to denote days of week when train leaves source station: Enter full station name: Enter day count, arrival and departure times (-1 if not applicable): Enter full station name: Enter day count, arrival and departure times (-1 if not applicable): Enter full station name: Enter day count, arrival and departure times (-1 if not applicable): ****************************
+Please choose an admin job:
+  0. Exit admin user
+  1. Enter/delete station name
+  2. Enter/delete journey code
+  3. Read commands from file
+  4. Exit reading commands from file
+  5. Print trie of station names
+  6. Enter journey information
+
+Input: Enter journey code (train no.): Enter count of stops (including src and dest): Enter binary string of length 7 to denote days of week when train leaves source station: Enter full station name: Enter day count, arrival and departure times (-1 if not applicable): Enter full station name: Enter day count, arrival and departure times (-1 if not applicable): Enter full station name: Enter day count, arrival and departure times (-1 if not applicable): ****************************
+Please choose an admin job:
+  0. Exit admin user
+  1. Enter/delete station name
+  2. Enter/delete journey code
+  3. Read commands from file
+  4. Exit reading commands from file
+  5. Print trie of station names
+  6. Enter journey information
+
+Input: Enter journey code (train no.): Enter count of stops (including src and dest): Enter binary string of length 7 to denote days of week when train leaves source station: Enter full station name: Enter day count, arrival and departure times (-1 if not applicable): Enter full station name: Enter day count, arrival and departure times (-1 if not applicable): Enter full station name: Enter day count, arrival and departure times (-1 if not applicable): ****************************
+Please choose an admin job:
+  0. Exit admin user
+  1. Enter/delete station name
+  2. Enter/delete journey code
+  3. Read commands from file
+  4. Exit reading commands from file
+  5. Print trie of station names
+  6. Enter journey information
+
+Input: Enter journey code (train no.): Enter count of stops (including src and dest): Enter binary string of length 7 to denote days of week when train leaves source station: Enter full station name: Enter day count, arrival and departure times (-1 if not applicable): Enter full station name: Enter day count, arrival and departure times (-1 if not applicable): Enter full station name: Enter day count, arrival and departure times (-1 if not applicable): ****************************
+Please choose an admin job:
+  0. Exit admin user
+  1. Enter/delete station name
+  2. Enter/delete journey code
+  3. Read commands from file
+  4. Exit reading commands from file
+  5. Print trie of station names
+  6. Enter journey information
+
+Input: Enter journey code (train no.): Enter count of stops (including src and dest): Enter binary string of length 7 to denote days of week when train leaves source station: Enter full station name: Enter day count, arrival and departure times (-1 if not applicable): Enter full station name: Enter day count, arrival and departure times (-1 if not applicable): Enter full station name: Enter day count, arrival and departure times (-1 if not applicable): ****************************
+Please choose an admin job:
+  0. Exit admin user
+  1. Enter/delete station name
+  2. Enter/delete journey code
+  3. Read commands from file
+  4. Exit reading commands from file
+  5. Print trie of station names
+  6. Enter journey information
+
+Input: Enter journey code (train no.): Enter count of stops (including src and dest): Enter binary string of length 7 to denote days of week when train leaves source station: Enter full station name: Enter day count, arrival and departure times (-1 if not applicable): Enter full station name: Enter day count, arrival and departure times (-1 if not applicable): Enter full station name: Enter day count, arrival and departure times (-1 if not applicable): ****************************
+Please choose an admin job:
+  0. Exit admin user
+  1. Enter/delete station name
+  2. Enter/delete journey code
+  3. Read commands from file
+  4. Exit reading commands from file
+  5. Print trie of station names
+  6. Enter journey information
+
+Input: Enter journey code (train no.): Enter count of stops (including src and dest): Enter binary string of length 7 to denote days of week when train leaves source station: Enter full station name: Enter day count, arrival and departure times (-1 if not applicable): Enter full station name: Enter day count, arrival and departure times (-1 if not applicable): Enter full station name: Enter day count, arrival and departure times (-1 if not applicable): ****************************
+Please choose an admin job:
+  0. Exit admin user
+  1. Enter/delete station name
+  2. Enter/delete journey code
+  3. Read commands from file
+  4. Exit reading commands from file
+  5. Print trie of station names
+  6. Enter journey information
+
+Input: Enter journey code (train no.): Enter count of stops (including src and dest): Enter binary string of length 7 to denote days of week when train leaves source station: Enter full station name: Enter day count, arrival and departure times (-1 if not applicable): Enter full station name: Enter day count, arrival and departure times (-1 if not applicable): Enter full station name: Enter day count, arrival and departure times (-1 if not applicable): ****************************
+Please choose an admin job:
+  0. Exit admin user
+  1. Enter/delete station name
+  2. Enter/delete journey code
+  3. Read commands from file
+  4. Exit reading commands from file
+  5. Print trie of station names
+  6. Enter journey information
+
+Input: Enter journey code (train no.): Enter count of stops (including src and dest): Enter binary string of length 7 to denote days of week when train leaves source station: Enter full station name: Enter day count, arrival and departure times (-1 if not applicable): Enter full station name: Enter day count, arrival and departure times (-1 if not applicable): Enter full station name: Enter day count, arrival and departure times (-1 if not applicable): ****************************
+Please choose an admin job:
+  0. Exit admin user
+  1. Enter/delete station name
+  2. Enter/delete journey code
+  3. Read commands from file
+  4. Exit reading commands from file
+  5. Print trie of station names
+  6. Enter journey information
+
+Input: Enter journey code (train no.): Enter count of stops (including src and dest): Enter binary string of length 7 to denote days of week when train leaves source station: Enter full station name: Enter day count, arrival and departure times (-1 if not applicable): Enter full station name: Enter day count, arrival and departure times (-1 if not applicable): Enter full station name: Enter day count, arrival and departure times (-1 if not applicable): ****************************
+Please choose an admin job:
+  0. Exit admin user
+  1. Enter/delete station name
+  2. Enter/delete journey code
+  3. Read commands from file
+  4. Exit reading commands from file
+  5. Print trie of station names
+  6. Enter journey information
+
+Input: Enter journey code (train no.): Enter count of stops (including src and dest): Enter binary string of length 7 to denote days of week when train leaves source station: Enter full station name: Enter day count, arrival and departure times (-1 if not applicable): Enter full station name: Enter day count, arrival and departure times (-1 if not applicable): Enter full station name: Enter day count, arrival and departure times (-1 if not applicable): ****************************
+Please choose an admin job:
+  0. Exit admin user
+  1. Enter/delete station name
+  2. Enter/delete journey code
+  3. Read commands from file
+  4. Exit reading commands from file
+  5. Print trie of station names
+  6. Enter journey information
+
+Input: Enter journey code (train no.): Enter count of stops (including src and dest): Enter binary string of length 7 to denote days of week when train leaves source station: Enter full station name: Enter day count, arrival and departure times (-1 if not applicable): Enter full station name: Enter day count, arrival and departure times (-1 if not applicable): Enter full station name: Enter day count, arrival and departure times (-1 if not applicable): ****************************
+Please choose an admin job:
+  0. Exit admin user
+  1. Enter/delete station name
+  2. Enter/delete journey code
+  3. Read commands from file
+  4. Exit reading commands from file
+  5. Print trie of station names
+  6. Enter journey information
+
+Input: Enter journey code (train no.): Enter count of stops (including src and dest): Enter binary string of length 7 to denote days of week when train leaves source station: Enter full station name: Enter day count, arrival and departure times (-1 if not applicable): Enter full station name: Enter day count, arrival and departure times (-1 if not applicable): Enter full station name: Enter day count, arrival and departure times (-1 if not applicable): ****************************
+Please choose an admin job:
+  0. Exit admin user
+  1. Enter/delete station name
+  2. Enter/delete journey code
+  3. Read commands from file
+  4. Exit reading commands from file
+  5. Print trie of station names
+  6. Enter journey information
+
+Input: Enter journey code (train no.): Enter count of stops (including src and dest): Enter binary string of length 7 to denote days of week when train leaves source station: Enter full station name: Enter day count, arrival and departure times (-1 if not applicable): Enter full station name: Enter day count, arrival and departure times (-1 if not applicable): Enter full station name: Enter day count, arrival and departure times (-1 if not applicable): ****************************
+Please choose an admin job:
+  0. Exit admin user
+  1. Enter/delete station name
+  2. Enter/delete journey code
+  3. Read commands from file
+  4. Exit reading commands from file
+  5. Print trie of station names
+  6. Enter journey information
+
+Input: Enter journey code (train no.): Enter count of stops (including src and dest): Enter binary string of length 7 to denote days of week when train leaves source station: Enter full station name: Enter day count, arrival and departure times (-1 if not applicable): Enter full station name: Enter day count, arrival and departure times (-1 if not applicable): Enter full station name: Enter day count, arrival and departure times (-1 if not applicable): ****************************
+Please choose an admin job:
+  0. Exit admin user
+  1. Enter/delete station name
+  2. Enter/delete journey code
+  3. Read commands from file
+  4. Exit reading commands from file
+  5. Print trie of station names
+  6. Enter journey information
+
+Input: Enter journey code (train no.): Enter count of stops (including src and dest): Enter binary string of length 7 to denote days of week when train leaves source station: Enter full station name: Enter day count, arrival and departure times (-1 if not applicable): Enter full station name: Enter day count, arrival and departure times (-1 if not applicable): Enter full station name: Enter day count, arrival and departure times (-1 if not applicable): ****************************
+Please choose an admin job:
+  0. Exit admin user
+  1. Enter/delete station name
+  2. Enter/delete journey code
+  3. Read commands from file
+  4. Exit reading commands from file
+  5. Print trie of station names
+  6. Enter journey information
+
+Input: Enter journey code (train no.): Enter count of stops (including src and dest): Enter binary string of length 7 to denote days of week when train leaves source station: Enter full station name: Enter day count, arrival and departure times (-1 if not applicable): Enter full station name: Enter day count, arrival and departure times (-1 if not applicable): Enter full station name: Enter day count, arrival and departure times (-1 if not applicable): ****************************
+Please choose an admin job:
+  0. Exit admin user
+  1. Enter/delete station name
+  2. Enter/delete journey code
+  3. Read commands from file
+  4. Exit reading commands from file
+  5. Print trie of station names
+  6. Enter journey information
+
+Input: Enter journey code (train no.): Enter count of stops (including src and dest): Enter binary string of length 7 to denote days of week when train leaves source station: Enter full station name: Enter day count, arrival and departure times (-1 if not applicable): Enter full station name: Enter day count, arrival and departure times (-1 if not applicable): Enter full station name: Enter day count, arrival and departure times (-1 if not applicable): ****************************
+Please choose an admin job:
+  0. Exit admin user
+  1. Enter/delete station name
+  2. Enter/delete journey code
+  3. Read commands from file
+  4. Exit reading commands from file
+  5. Print trie of station names
+  6. Enter journey information
+
+Input: Enter journey code (train no.): Enter count of stops (including src and dest): Enter binary string of length 7 to denote days of week when train leaves source station: Enter full station name: Enter day count, arrival and departure times (-1 if not applicable): Enter full station name: Enter day count, arrival and departure times (-1 if not applicable): Enter full station name: Enter day count, arrival and departure times (-1 if not applicable): ****************************
+Please choose an admin job:
+  0. Exit admin user
+  1. Enter/delete station name
+  2. Enter/delete journey code
+  3. Read commands from file
+  4. Exit reading commands from file
+  5. Print trie of station names
+  6. Enter journey information
+
+Input: Enter journey code (train no.): Enter count of stops (including src and dest): Enter binary string of length 7 to denote days of week when train leaves source station: Enter full station name: Enter day count, arrival and departure times (-1 if not applicable): Enter full station name: Enter day count, arrival and departure times (-1 if not applicable): Enter full station name: Enter day count, arrival and departure times (-1 if not applicable): ****************************
+Please choose an admin job:
+  0. Exit admin user
+  1. Enter/delete station name
+  2. Enter/delete journey code
+  3. Read commands from file
+  4. Exit reading commands from file
+  5. Print trie of station names
+  6. Enter journey information
+
+Input: Enter journey code (train no.): Enter count of stops (including src and dest): Enter binary string of length 7 to denote days of week when train leaves source station: Enter full station name: Enter day count, arrival and departure times (-1 if not applicable): Enter full station name: Enter day count, arrival and departure times (-1 if not applicable): Enter full station name: Enter day count, arrival and departure times (-1 if not applicable): ****************************
+Please choose an admin job:
+  0. Exit admin user
+  1. Enter/delete station name
+  2. Enter/delete journey code
+  3. Read commands from file
+  4. Exit reading commands from file
+  5. Print trie of station names
+  6. Enter journey information
+
+Input: Enter journey code (train no.): Enter count of stops (including src and dest): Enter binary string of length 7 to denote days of week when train leaves source station: Enter full station name: Enter day count, arrival and departure times (-1 if not applicable): Enter full station name: Enter day count, arrival and departure times (-1 if not applicable): Enter full station name: Enter day count, arrival and departure times (-1 if not applicable): ****************************
+Please choose an admin job:
+  0. Exit admin user
+  1. Enter/delete station name
+  2. Enter/delete journey code
+  3. Read commands from file
+  4. Exit reading commands from file
+  5. Print trie of station names
+  6. Enter journey information
+
+Input: Enter journey code (train no.): Enter count of stops (including src and dest): Enter binary string of length 7 to denote days of week when train leaves source station: Enter full station name: Enter day count, arrival and departure times (-1 if not applicable): Enter full station name: Enter day count, arrival and departure times (-1 if not applicable): Enter full station name: Enter day count, arrival and departure times (-1 if not applicable): ****************************
+Please choose an admin job:
+  0. Exit admin user
+  1. Enter/delete station name
+  2. Enter/delete journey code
+  3. Read commands from file
+  4. Exit reading commands from file
+  5. Print trie of station names
+  6. Enter journey information
+
+Input: Enter journey code (train no.): Enter count of stops (including src and dest): Enter binary string of length 7 to denote days of week when train leaves source station: Enter full station name: Enter day count, arrival and departure times (-1 if not applicable): Enter full station name: Enter day count, arrival and departure times (-1 if not applicable): Enter full station name: Enter day count, arrival and departure times (-1 if not applicable): ****************************
+Please choose an admin job:
+  0. Exit admin user
+  1. Enter/delete station name
+  2. Enter/delete journey code
+  3. Read commands from file
+  4. Exit reading commands from file
+  5. Print trie of station names
+  6. Enter journey information
+
+Input: Enter journey code (train no.): Enter count of stops (including src and dest): Enter binary string of length 7 to denote days of week when train leaves source station: Enter full station name: Enter day count, arrival and departure times (-1 if not applicable): Enter full station name: Enter day count, arrival and departure times (-1 if not applicable): Enter full station name: Enter day count, arrival and departure times (-1 if not applicable): ****************************
+Please choose an admin job:
+  0. Exit admin user
+  1. Enter/delete station name
+  2. Enter/delete journey code
+  3. Read commands from file
+  4. Exit reading commands from file
+  5. Print trie of station names
+  6. Enter journey information
+
+Input: Enter journey code (train no.): Enter count of stops (including src and dest): Enter binary string of length 7 to denote days of week when train leaves source station: Enter full station name: Enter day count, arrival and departure times (-1 if not applicable): Enter full station name: Enter day count, arrival and departure times (-1 if not applicable): Enter full station name: Enter day count, arrival and departure times (-1 if not applicable): ****************************
+Please choose an admin job:
+  0. Exit admin user
+  1. Enter/delete station name
+  2. Enter/delete journey code
+  3. Read commands from file
+  4. Exit reading commands from file
+  5. Print trie of station names
+  6. Enter journey information
+
+Input: Enter journey code (train no.): Enter count of stops (including src and dest): Enter binary string of length 7 to denote days of week when train leaves source station: Enter full station name: Enter day count, arrival and departure times (-1 if not applicable): Enter full station name: Enter day count, arrival and departure times (-1 if not applicable): Enter full station name: Enter day count, arrival and departure times (-1 if not applicable): ****************************
+Please choose an admin job:
+  0. Exit admin user
+  1. Enter/delete station name
+  2. Enter/delete journey code
+  3. Read commands from file
+  4. Exit reading commands from file
+  5. Print trie of station names
+  6. Enter journey information
+
+Input: Thank you for being an admin!
+Bye!!!
+Enter user code (0 to exit): ****************************
+Please choose a user job:
+  100. Exit user
+  110. Enter/delete review
+  120. Find journeys
+  130. Read commands from a file
+  140. Exit reading commands from a file
+  150. Find all journeys from station
+
+Input: Enter prefix of any word in station name: Station: B
+[32mDay(s): [0mSun 
+[34mJourneyCode: 113432[0m	[31mArr: [0m155[31m Dep: [0m1
+[32mDay(s): [0mSun 
+[34mJourneyCode: 97748[0m	[31mArr: [0m253[31m Dep: [0m1
+[32mDay(s): [0mSun 
+[34mJourneyCode: 86478[0m	[31mArr: [0m290[31m Dep: [0m1
+[32mDay(s): [0mSun 
+[34mJourneyCode: 103057[0m	[31mArr: [0m339[31m Dep: [0m1
+[32mDay(s): [0mSun 
+[34mJourneyCode: 41991[0m	[31mArr: [0m462[31m Dep: [0m1
+[32mDay(s): [0mSun 
+[34mJourneyCode: 90054[0m	[31mArr: [0m777[31m Dep: [0m1
+[32mDay(s): [0mSun 
+[34mJourneyCode: 47181[0m	[31mArr: [0m782[31m Dep: [0m1
+[32mDay(s): [0mSun 
+[34mJourneyCode: 17554[0m	[31mArr: [0m1007[31m Dep: [0m1
+[32mDay(s): [0mSun 
+[34mJourneyCode: 67458[0m	[31mArr: [0m1013[31m Dep: [0m1
+[32mDay(s): [0mSun 
+[34mJourneyCode: 5224[0m	[31mArr: [0m1014[31m Dep: [0m1
+[32mDay(s): [0mSun 
+[34mJourneyCode: 13759[0m	[31mArr: [0m1079[31m Dep: [0m1
+[32mDay(s): [0mSun 
+[34mJourneyCode: 14195[0m	[31mArr: [0m1764[31m Dep: [0m1
+[32mDay(s): [0mSun 
+[34mJourneyCode: 84366[0m	[31mArr: [0m2117[31m Dep: [0m1
+[32mDay(s): [0mMon 
+[34mJourneyCode: 57827[0m	[31mArr: [0m368[31m Dep: [0m1
+[32mDay(s): [0mMon 
+[34mJourneyCode: 101582[0m	[31mArr: [0m447[31m Dep: [0m1
+[32mDay(s): [0mMon 
+[34mJourneyCode: 67712[0m	[31mArr: [0m453[31m Dep: [0m1
+[32mDay(s): [0mMon 
+[34mJourneyCode: 55108[0m	[31mArr: [0m454[31m Dep: [0m1
+[32mDay(s): [0mMon 
+[34mJourneyCode: 71831[0m	[31mArr: [0m456[31m Dep: [0m1
+[32mDay(s): [0mMon 
+[34mJourneyCode: 49769[0m	[31mArr: [0m495[31m Dep: [0m1
+[32mDay(s): [0mMon 
+[34mJourneyCode: 45633[0m	[31mArr: [0m635[31m Dep: [0m1
+[32mDay(s): [0mMon 
+[34mJourneyCode: 118539[0m	[31mArr: [0m870[31m Dep: [0m1
+[32mDay(s): [0mMon 
+[34mJourneyCode: 36840[0m	[31mArr: [0m1370[31m Dep: [0m1
+[32mDay(s): [0mMon 
+[34mJourneyCode: 10075[0m	[31mArr: [0m1663[31m Dep: [0m1
+[32mDay(s): [0mMon 
+[34mJourneyCode: 59292[0m	[31mArr: [0m1835[31m Dep: [0m1
+[32mDay(s): [0mMon 
+[34mJourneyCode: 76947[0m	[31mArr: [0m1927[31m Dep: [0m1
+[32mDay(s): [0mMon 
+[34mJourneyCode: 37864[0m	[31mArr: [0m2000[31m Dep: [0m1
+[32mDay(s): [0mTue 
+[34mJourneyCode: 87258[0m	[31mArr: [0m125[31m Dep: [0m1
+[32mDay(s): [0mTue 
+[34mJourneyCode: 63396[0m	[31mArr: [0m143[31m Dep: [0m1
+[32mDay(s): [0mTue 
+[34mJourneyCode: 63818[0m	[31mArr: [0m316[31m Dep: [0m1
+[32mDay(s): [0mTue 
+[34mJourneyCode: 15801[0m	[31mArr: [0m326[31m Dep: [0m1
+[32mDay(s): [0mTue 
+[34mJourneyCode: 30255[0m	[31mArr: [0m686[31m Dep: [0m1
+[32mDay(s): [0mTue 
+[34mJourneyCode: 8223[0m	[31mArr: [0m865[31m Dep: [0m1
+[32mDay(s): [0mTue 
+[34mJourneyCode: 3862[0m	[31mArr: [0m927[31m Dep: [0m1
+[32mDay(s): [0mTue 
+[34mJourneyCode: 49740[0m	[31mArr: [0m938[31m Dep: [0m1
+[32mDay(s): [0mTue 
+[34mJourneyCode: 56258[0m	[31mArr: [0m946[31m Dep: [0m1
+[32mDay(s): [0mTue 
+[34mJourneyCode: 82856[0m	[31mArr: [0m1166[31m Dep: [0m1
+[32mDay(s): [0mTue 
+[34mJourneyCode: 29093[0m	[31mArr: [0m1171[31m Dep: [0m1
+[32mDay(s): [0mTue 
+[34mJourneyCode: 65254[0m	[31mArr: [0m1647[31m Dep: [0m1
+[32mDay(s): [0mTue 
+[34mJourneyCode: 72209[0m	[31mArr: [0m1819[31m Dep: [0m1
+[32mDay(s): [0mTue 
+[34mJourneyCode: 84147[0m	[31mArr: [0m2082[31m Dep: [0m1
+[32mDay(s): [0mTue 
+[34mJourneyCode: 57940[0m	[31mArr: [0m2142[31m Dep: [0m1
+[32mDay(s): [0mTue 
+[34mJourneyCode: 44864[0m	[31mArr: [0m2338[31m Dep: [0m1
+[32mDay(s): [0mWed 
+[34mJourneyCode: 91180[0m	[31mArr: [0m133[31m Dep: [0m1
+[32mDay(s): [0mWed 
+[34mJourneyCode: 58631[0m	[31mArr: [0m223[31m Dep: [0m1
+[32mDay(s): [0mWed 
+[34mJourneyCode: 118516[0m	[31mArr: [0m383[31m Dep: [0m1
+[32mDay(s): [0mWed 
+[34mJourneyCode: 53992[0m	[31mArr: [0m407[31m Dep: [0m1
+[32mDay(s): [0mWed 
+[34mJourneyCode: 21221[0m	[31mArr: [0m793[31m Dep: [0m1
+[32mDay(s): [0mWed 
+[34mJourneyCode: 37495[0m	[31mArr: [0m1002[31m Dep: [0m1
+[32mDay(s): [0mWed 
+[34mJourneyCode: 105134[0m	[31mArr: [0m1129[31m Dep: [0m1
+[32mDay(s): [0mWed 
+[34mJourneyCode: 42151[0m	[31mArr: [0m1218[31m Dep: [0m1
+[32mDay(s): [0mWed 
+[34mJourneyCode: 21926[0m	[31mArr: [0m1271[31m Dep: [0m1
+[32mDay(s): [0mWed 
+[34mJourneyCode: 108457[0m	[31mArr: [0m1305[31m Dep: [0m1
+[32mDay(s): [0mWed 
+[34mJourneyCode: 43481[0m	[31mArr: [0m1322[31m Dep: [0m1
+[32mDay(s): [0mWed 
+[34mJourneyCode: 86963[0m	[31mArr: [0m1741[31m Dep: [0m1
+[32mDay(s): [0mWed 
+[34mJourneyCode: 27699[0m	[31mArr: [0m1768[31m Dep: [0m1
+[32mDay(s): [0mWed 
+[34mJourneyCode: 98427[0m	[31mArr: [0m1776[31m Dep: [0m1
+[32mDay(s): [0mWed 
+[34mJourneyCode: 6955[0m	[31mArr: [0m2268[31m Dep: [0m1
+[32mDay(s): [0mThu 
+[34mJourneyCode: 62507[0m	[31mArr: [0m270[31m Dep: [0m1
+[32mDay(s): [0mThu 
+[34mJourneyCode: 56223[0m	[31mArr: [0m302[31m Dep: [0m1
+[32mDay(s): [0mThu 
+[34mJourneyCode: 62625[0m	[31mArr: [0m377[31m Dep: [0m1
+[32mDay(s): [0mThu 
+[34mJourneyCode: 30130[0m	[31mArr: [0m471[31m Dep: [0m1
+[32mDay(s): [0mThu 
+[34mJourneyCode: 115083[0m	[31mArr: [0m497[31m Dep: [0m1
+[32mDay(s): [0mThu 
+[34mJourneyCode: 64447[0m	[31mArr: [0m510[31m Dep: [0m1
+[32mDay(s): [0mThu 
+[34mJourneyCode: 31210[0m	[31mArr: [0m555[31m Dep: [0m1
+[32mDay(s): [0mThu 
+[34mJourneyCode: 106974[0m	[31mArr: [0m558[31m Dep: [0m1
+[32mDay(s): [0mThu 
+[34mJourneyCode: 35731[0m	[31mArr: [0m575[31m Dep: [0m1
+[32mDay(s): [0mThu 
+[34mJourneyCode: 12522[0m	[31mArr: [0m750[31m Dep: [0m1
+[32mDay(s): [0mThu 
+[34mJourneyCode: 81200[0m	[31mArr: [0m970[31m Dep: [0m1
+[32mDay(s): [0mThu 
+[34mJourneyCode: 98441[0m	[31mArr: [0m1102[31m Dep: [0m1
+[32mDay(s): [0mThu 
+[34mJourneyCode: 3855[0m	[31mArr: [0m2059[31m Dep: [0m1
+[32mDay(s): [0mThu 
+[34mJourneyCode: 29187[0m	[31mArr: [0m2134[31m Dep: [0m1
+[32mDay(s): [0mThu 
+[34mJourneyCode: 36773[0m	[31mArr: [0m2276[31m Dep: [0m1
+[32mDay(s): [0mFri 
+[34mJourneyCode: 17116[0m	[31mArr: [0m66[31m Dep: [0m1
+[32mDay(s): [0mFri 
+[34mJourneyCode: 87161[0m	[31mArr: [0m141[31m Dep: [0m1
+[32mDay(s): [0mFri 
+[34mJourneyCode: 112554[0m	[31mArr: [0m374[31m Dep: [0m1
+[32mDay(s): [0mFri 
+[34mJourneyCode: 30762[0m	[31mArr: [0m452[31m Dep: [0m1
+[32mDay(s): [0mFri 
+[34mJourneyCode: 29687[0m	[31mArr: [0m672[31m Dep: [0m1
+[32mDay(s): [0mFri 
+[34mJourneyCode: 58139[0m	[31mArr: [0m866[31m Dep: [0m1
+[32mDay(s): [0mFri 
+[34mJourneyCode: 47364[0m	[31mArr: [0m877[31m Dep: [0m1
+[32mDay(s): [0mFri 
+[34mJourneyCode: 74058[0m	[31mArr: [0m1065[31m Dep: [0m1
+[32mDay(s): [0mFri 
+[34mJourneyCode: 71660[0m	[31mArr: [0m1218[31m Dep: [0m1
+[32mDay(s): [0mFri 
+[34mJourneyCode: 46347[0m	[31mArr: [0m1423[31m Dep: [0m1
+[32mDay(s): [0mFri 
+[34mJourneyCode: 14587[0m	[31mArr: [0m1444[31m Dep: [0m1
+[32mDay(s): [0mFri 
+[34mJourneyCode: 49754[0m	[31mArr: [0m1487[31m Dep: [0m1
+[32mDay(s): [0mFri 
+[34mJourneyCode: 109955[0m	[31mArr: [0m1897[31m Dep: [0m1
+[32mDay(s): [0mFri 
+[34mJourneyCode: 95182[0m	[31mArr: [0m1914[31m Dep: [0m1
+[32mDay(s): [0mFri 
+[34mJourneyCode: 50621[0m	[31mArr: [0m2104[31m Dep: [0m1
+[32mDay(s): [0mFri 
+[34mJourneyCode: 50127[0m	[31mArr: [0m2246[31m Dep: [0m1
+[32mDay(s): [0mFri 
+[34mJourneyCode: 105421[0m	[31mArr: [0m2326[31m Dep: [0m1
+[32mDay(s): [0mFri 
+[34mJourneyCode: 55420[0m	[31mArr: [0m2342[31m Dep: [0m1
+[32mDay(s): [0mSat 
+[34mJourneyCode: 19254[0m	[31mArr: [0m40[31m Dep: [0m1
+[32mDay(s): [0mSat 
+[34mJourneyCode: 59387[0m	[31mArr: [0m102[31m Dep: [0m1
+[32mDay(s): [0mSat 
+[34mJourneyCode: 44452[0m	[31mArr: [0m260[31m Dep: [0m1
+[32mDay(s): [0mSat 
+[34mJourneyCode: 66403[0m	[31mArr: [0m420[31m Dep: [0m1
+[32mDay(s): [0mSat 
+[34mJourneyCode: 68749[0m	[31mArr: [0m579[31m Dep: [0m1
+[32mDay(s): [0mSat 
+[34mJourneyCode: 10704[0m	[31mArr: [0m733[31m Dep: [0m1
+[32mDay(s): [0mSat 
+[34mJourneyCode: 96938[0m	[31mArr: [0m907[31m Dep: [0m1
+[32mDay(s): [0mSat 
+[34mJourneyCode: 83853[0m	[31mArr: [0m1406[31m Dep: [0m1
+[32mDay(s): [0mSat 
+[34mJourneyCode: 119608[0m	[31mArr: [0m1611[31m Dep: [0m1
+[32mDay(s): [0mSat 
+[34mJourneyCode: 52651[0m	[31mArr: [0m1934[31m Dep: [0m1
+
+****************************
+Please choose a user job:
+  100. Exit user
+  110. Enter/delete review
+  120. Find journeys
+  130. Read commands from a file
+  140. Exit reading commands from a file
+  150. Find all journeys from station
+
+Input: Thank you for being a user!
+Bye!!!
+Enter user code (0 to exit): Thank you for using the journey planner.
+Bye!
